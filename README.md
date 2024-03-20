@@ -1,1 +1,1 @@
-# EDA-XGBoost---Marketing-Campaign
+# EDA & predicting responsiveness to marketing campaign using XGBoost
